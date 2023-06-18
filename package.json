@@ -21,12 +21,3 @@
   "license": "MIT"
 
 }
-npm install --save express
-
-npm install --save react react-dom @material-ui/core @material-ui/icons
-
-npm install --save-dev browserify babelify
-
-npm install --save-dev @babel/core @babel/preset-env @babel/preset-react
-
-
